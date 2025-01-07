@@ -1,2 +1,2 @@
-# GithubQRCODE
+# MyGithubQRCODE
 Making A QRCODE
